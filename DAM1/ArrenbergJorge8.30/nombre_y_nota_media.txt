@@ -1,0 +1,111 @@
+Nombre: Godoy Barrionuevo, Antonio Jesús	Nota Media: 1,40
+Nombre: González Pereau, Saray	Nota Media: 5,60
+Nombre: González Pérez, Antonio	Nota Media: 7,20
+Nombre: González Pérez, Laura	Nota Media: 7,00
+Nombre: Gutiérrez Martín, Marina	Nota Media: 1,80
+Nombre: Heredia Mesa, Pablo	Nota Media: 4,60
+Nombre: Martínez Ruiz, Mónica	Nota Media: 2,60
+Nombre: Peralta , Maximiliano	Nota Media: 2,60
+Nombre: Plaza Gallego, Juan	Nota Media: 1,40
+Nombre: Pérez Pellisero, Braian	Nota Media: 5,60
+Nombre: Rielves Barea, Manuel	Nota Media: 4,80
+Nombre: Rueda Cruz, María	Nota Media: 5,40
+Nombre: Ruiz Jiménez, Rafael	Nota Media: 4,80
+Nombre: Russell , Natalie	Nota Media: 4,40
+Nombre: Subiri Rueda, Fco José	Nota Media: 2,80
+Nombre: Vilches Moreno, Lola Isabel	Nota Media: 8,00
+Nombre: Virella Robles, Carolina	Nota Media: 4,40
+Nombre: Aguilera Delgado, Enrique	Nota Media: 7,80
+Nombre: Benítez Gaitán, Juan Cruz	Nota Media: 5,60
+Nombre: Cruz Pino, Raquel	Nota Media: 4,60
+Nombre: Domínguez Tirado, José	Nota Media: 6,20
+Nombre: Donaire Rodríguez, Miguel Ángel	Nota Media: 5,40
+Nombre: Donaire Vergara, Eva María	Nota Media: 5,20
+Nombre: Durán , Mariano	Nota Media: 4,20
+Nombre: El Mazani , Mohammed	Nota Media: 4,00
+Nombre: Garrido Delgado, Pablo	Nota Media: 4,60
+Nombre: González Solano, Ana Belén	Nota Media: 1,20
+Nombre: Guerra Cano, Tamara	Nota Media: 2,80
+Nombre: Hurtado García, Carmen María	Nota Media: 4,00
+Nombre: Lima Franco, Laura	Nota Media: 3,00
+Nombre: Luque González, Christian	Nota Media: 7,80
+Nombre: Martínez Calderero, Aarón	Nota Media: 4,40
+Nombre: Morales Flores, Víctor	Nota Media: 1,20
+Nombre: Peula Cordero, Yazmina	Nota Media: 5,00
+Nombre: Ramírez Farfán, Carmen	Nota Media: 5,60
+Nombre: Requena Carrasco, Rafael	Nota Media: 3,20
+Nombre: Robles Ortiz, Sofía	Nota Media: 5,40
+Nombre: Rueda Calzada, Laura	Nota Media: 7,60
+Nombre: Salas Márquez, Jennifer	Nota Media: 2,40
+Nombre: Sánchez Ortiz, Álvaro José	Nota Media: 6,00
+Nombre: Aranda Vázquez, José	Nota Media: 2,40
+Nombre: Castillo Alcázar, Alejandro	Nota Media: 4,80
+Nombre: Cordón López, Rocío	Nota Media: 2,60
+Nombre: Mantero González, Juan	Nota Media: 4,60
+Nombre: Martín Soler, José Manuel	Nota Media: 3,80
+Nombre: Menaique Álvarez, Celia María	Nota Media: 4,40
+Nombre: Mora Castillo, Paola	Nota Media: 4,60
+Nombre: Ramírez Pérez, David	Nota Media: 3,40
+Nombre: Recchia , María Fiorella	Nota Media: 3,20
+Nombre: Rendón Alba, Jorge Luis	Nota Media: 2,80
+Nombre: Roberto Jaimes, Kelly Ximena	Nota Media: 4,60
+Nombre: Rueda Vega, Ana Carmen	Nota Media: 4,20
+Nombre: Ruiz Rueda, Sebastián	Nota Media: 3,60
+Nombre: Vegas Carrasco, María Encarnación	Nota Media: 2,20
+Nombre: Villar Risco, Omar	Nota Media: 7,20
+Nombre: Villatoro Postigo, Adrián	Nota Media: 4,80
+Nombre: Wilson , Luke	Nota Media: 2,20
+Nombre: Benítez Maya, Luciana	Nota Media: 6,80
+Nombre: Castillo Viñolo, Francisco	Nota Media: 3,00
+Nombre: Fontaneda Macías, Borja	Nota Media: 6,00
+Nombre: García Bernal, María Esther	Nota Media: 7,80
+Nombre: García López, Elena	Nota Media: 6,20
+Nombre: García Romero, Álvaro	Nota Media: 4,40
+Nombre: García Sánchez, Carmen	Nota Media: 3,80
+Nombre: González Bernal, Cristóbal	Nota Media: 5,80
+Nombre: Hernández Jack, Irene	Nota Media: 5,40
+Nombre: Jalao Puertas, Jonathan	Nota Media: 1,00
+Nombre: López Muro, Rosario	Nota Media: 3,40
+Nombre: López Muro, Rosario	Nota Media: 3,40
+Nombre: Mayer Jiménez, Alejandro	Nota Media: 1,00
+Nombre: Molina González, Samuel Oliver	Nota Media: 3,40
+Nombre: Navarro García, María Azahara	Nota Media: 4,40
+Nombre: Núñez Ramírez, Paula	Nota Media: 3,40
+Nombre: Oïbrien , George Iván	Nota Media: 1,00
+Nombre: Reina Romero, José Daniel	Nota Media: 6,20
+Nombre: Sales Briales, Paloma	Nota Media: 3,80
+Nombre: Solano Fernández, Alejandro David	Nota Media: 1,00
+Nombre: Sánchez López, Alba	Nota Media: 3,20
+Nombre: Vargas Santiago, Samuel	Nota Media: 1,40
+Nombre: Álvarez Rodríguez, Dayana Vanessa	Nota Media: 5,60
+Nombre: Abdeselam Blanco, Hillary	Nota Media: 6,00
+Nombre: Amaya Guillén, José Pablo	Nota Media: 5,00
+Nombre: Artacho Silva, Mar	Nota Media: 6,80
+Nombre: Becerra García, Javier	Nota Media: 5,00
+Nombre: Ben Aouda , Mounir	Nota Media: 1,00
+Nombre: Benítez Berenjeno, Laura	Nota Media: 7,80
+Nombre: Bernat Rodríguez, Sandra	Nota Media: 5,00
+Nombre: Bravo Guzmán, Mireya	Nota Media: 4,80
+Nombre: Cañas Arcos, Esther	Nota Media: 6,80
+Nombre: Cecilio Gibaja, Sara	Nota Media: 3,20
+Nombre: Delgado Rodríguez, Daniel	Nota Media: 6,20
+Nombre: Farfán González, María de la Paloma	Nota Media: 5,00
+Nombre: Moreno Santamaría, José Luis	Nota Media: 3,80
+Nombre: Moreno Vázquez, Tomás	Nota Media: 6,20
+Nombre: Muñoz Bellido, Sandra	Nota Media: 2,60
+Nombre: Perea Sierra, Antonio Mateo	Nota Media: 4,40
+Nombre: Plaza Pérez, Nuria María	Nota Media: 5,40
+Nombre: Postigo Vázquez, Salvador	Nota Media: 4,20
+Nombre: Prieto Granja, Alicia	Nota Media: 3,60
+Nombre: Puertas Moreno, Andrea	Nota Media: 5,40
+Nombre: Rico Pinazo, Pedro	Nota Media: 8,60
+Nombre: Rodríguez Baro, Irene	Nota Media: 5,60
+Nombre: Rodríguez Horcajo, Noelia	Nota Media: 7,40
+Nombre: Rodríguez Márquez, Ezequiel	Nota Media: 7,60
+Nombre: Romero González, Nazaret	Nota Media: 5,60
+Nombre: Rueda Blanco, Oscar	Nota Media: 7,20
+Nombre: Serrano Doña, Ismael	Nota Media: 7,00
+Nombre: Solano Garrido, Alberto	Nota Media: 3,40
+Nombre: Solera Benítez, Paola	Nota Media: 5,00
+Nombre: Sánchez Solano, Ana Tadea	Nota Media: 7,00
+Nombre: Vega Jiménez, Ana María	Nota Media: 5,20
