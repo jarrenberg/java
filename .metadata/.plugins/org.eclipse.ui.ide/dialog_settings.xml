@@ -29,6 +29,7 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\dam2\Documents\proyectosEclipse\PROG1"/>
 			<item value="C:\Users\dam2\Documents\proyectosEclipse\DAM1"/>
 			<item value="C:\Users\dam2\Documents\proyectosEclipse"/>
 		</list>
