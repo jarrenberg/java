@@ -1,0 +1,26 @@
+
+1º ESO A;Jiménez Benítez, Francheska;2;1;4;5;3
+1º ESO A;Suárez Cano, Francisco José;2;3;4;1;2
+1º ESO B;Cordero Benítez, Alejandro;2;3;2;1;4
+1º ESO B;Duarte Durán, Alba;2;3;4;1;3
+1º ESO B;Duarte Durán, Alba;2;3;4;1;3
+1º ESO B;Fernández Leiva, Francisco Adrián;2;2;6;1;5
+1º ESO B;Martín Aguilar, Paula María;2;3;5;4;4
+1º ESO B;Martínez Martín, Fabiola;2;2;4;1;5
+1º ESO B;Salado Arcas, María del Carmen;2;3;4;1;3
+1º ESO C;Benedetti , Débora;2;2;4;5;2
+1º ESO C;Caro Ruiz, Melany;2;2;5;1;4
+1º ESO C;Fernández Rico, Paula;2;3;3;1;3
+1º ESO C;Jiménez Rueda, Marina;2;4;5;1;3
+1º ESO C;Rodríguez Arroyo, Alba María;2;3;4;1;2
+1º ESO C;Romero Farfán, Estefanía;2;2;3;1;1
+1º ESO C;Salas Márquez, Desiree;2;3;4;1;4
+1º ESO C;Salazar Carrera, Juana María;2;3;3;1;3
+1º ESO C;Tomé Cordero, Virginia;2;3;4;1;2
+1º ESO C;Zoodsma Villalón, Natali;2;3;4;5;3
+1º ESO C;Álvarez López, Nohemi;2;2;2;5;2
+1º ESO D;Bououalli Cano, Linda María;2;1;3;1;1
+1º ESO D;Cruz Portillo, Francisco;2;3;4;4;3
+1º ESO D;Plaza López, Laura;2;2;4;1;2
+1º ESO D;Serrano Castillo, José Antonio;2;4;9;3;5
+1º ESO D;Solano Fernández, Macarena;2;2;2;1;1

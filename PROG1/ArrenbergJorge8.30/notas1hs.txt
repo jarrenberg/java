@@ -1,0 +1,15 @@
+1º ESO D;Vargas Santiago, Samuel;1;1;3;1;1
+1º ESO D;López Muro, Rosario;3;3;4;4;3
+1º ESO C;Rendón Alba, Jorge Luis;3;3;5;1;2
+1º ESO D;Sánchez López, Alba;3;2;4;3;4
+1º ESO D;Cruz Portillo, Francisco;2;3;4;4;3
+1º ESO C;Romero Farfán, Estefanía;2;2;3;1;1
+1º ESO D;Serrano Castillo, José Antonio;2;4;9;3;5
+1º ESO A;Cotilla Florido, Alberto;1;3;3;1;2
+1º ESO B;Guerra Cano, Tamara;1;3;3;5;2
+1º ESO D;Vargas Santiago, Samuel;1;1;3;1;1
+1º ESO D;López Muro, Rosario;3;3;4;4;3
+1º ESO C;Rendón Alba, Jorge Luis;3;3;5;1;2
+1º ESO D;Sánchez López, Alba;3;2;4;3;4
+1º ESO D;Cruz Portillo, Francisco;2;3;4;4;3
+1º ESO A;Plaza Gallego, Juan;1;1;3;1;1
