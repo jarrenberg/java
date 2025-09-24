@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"libteatro","l":"Dado"},{"p":"libteatro","l":"Teatro"},{"p":"libteatro","l":"Utilidades"}];updateSearchResults();
