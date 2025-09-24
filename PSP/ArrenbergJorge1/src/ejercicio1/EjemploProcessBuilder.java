@@ -35,7 +35,7 @@ public class EjemploProcessBuilder {
 		pb = pb.command(pUser);
 		p1 = pb.start();
 
-		System.out.printf("El PID del programa introducido por teclado es: %d\n",p1.pid());
+		System.out.printf("El PID del p	rograma introducido por teclado es: %d\n",p1.pid());
 		System.out.println(p1.isAlive());
 		
 		
