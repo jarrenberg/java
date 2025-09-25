@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 2025/09/19-16:32:49.341 3bf0 Reusing MANIFEST C:\Users\dam2\Documents\proyectosEclipse\DAM2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
 2025/09/19-16:32:49.342 3bf0 Recovering log #3
 2025/09/19-16:32:49.343 3bf0 Reusing old log C:\Users\dam2\Documents\proyectosEclipse\DAM2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/000003.log 
+=======
+2025/09/24-17:29:50.233 c08 Reusing MANIFEST C:\Users\dam2\Documents\proyectosEclipse\PSP\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2025/09/24-17:29:50.234 c08 Recovering log #3
+2025/09/24-17:29:50.235 c08 Reusing old log C:\Users\dam2\Documents\proyectosEclipse\PSP\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/000003.log 
+>>>>>>> 679f2dc2572f835ff806a47c7f5b4fc10f33e961

@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 2025/09/19-17:46:47.637 1e70 Reusing MANIFEST C:\Users\dam2\Documents\proyectosEclipse\DAM2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/MANIFEST-000001
 2025/09/19-17:46:47.638 1e70 Recovering log #3
 2025/09/19-17:46:47.639 1e70 Reusing old log C:\Users\dam2\Documents\proyectosEclipse\DAM2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/000003.log 
+=======
+2025/09/24-17:32:02.718 4138 Reusing MANIFEST C:\Users\dam2\Documents\proyectosEclipse\PSP\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/MANIFEST-000001
+2025/09/24-17:32:02.719 4138 Recovering log #3
+2025/09/24-17:32:02.720 4138 Reusing old log C:\Users\dam2\Documents\proyectosEclipse\PSP\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/000003.log 
+>>>>>>> 679f2dc2572f835ff806a47c7f5b4fc10f33e961

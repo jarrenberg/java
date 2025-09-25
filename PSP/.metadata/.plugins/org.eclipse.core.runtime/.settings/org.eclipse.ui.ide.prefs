@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 eclipse.preferences.version=1
 platformState=923015996099715
+=======
+IMPORT_FILES_AND_FOLDERS_RELATIVE=true
+IMPORT_FILES_AND_FOLDERS_TYPE=23,1
+eclipse.preferences.version=1
+platformState=1770857298210156
+>>>>>>> 679f2dc2572f835ff806a47c7f5b4fc10f33e961
 quickStart=false
 tipsAndTricks=true

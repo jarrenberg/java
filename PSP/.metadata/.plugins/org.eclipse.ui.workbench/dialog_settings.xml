@@ -23,4 +23,16 @@
 	</section>
 	<section name="ZipFileExportWizard">
 	</section>
+<<<<<<< HEAD
+=======
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+			<item value="org.eclipse.jpt.jaxb"/>
+		</list>
+		<section name="NewWizard.dialogBounds">
+		</section>
+	</section>
+>>>>>>> 679f2dc2572f835ff806a47c7f5b4fc10f33e961
 </section>
