@@ -6,11 +6,22 @@
       "padded_top_topics_start_index": 0,
       "taxonomy_version": 0,
       "top_topics_and_observing_domains": [  ]
+   }, {
+      "calculation_time": "13403371779662008",
+      "config_version": 0,
+      "model_version": "0",
+      "padded_top_topics_start_index": 0,
+      "taxonomy_version": 0,
+      "top_topics_and_observing_domains": [  ]
    } ],
    "hex_encoded_hmac_key": "DF0CAA6ABACA54AD351DC32B72A4C0DD4F2BA4B2E9422D02AD9056D558481D9F",
+<<<<<<< HEAD
 <<<<<<< HEAD
    "next_scheduled_calculation_time": "13403368355153040"
 =======
    "next_scheduled_calculation_time": "13403368355153084"
 >>>>>>> 679f2dc2572f835ff806a47c7f5b4fc10f33e961
+=======
+   "next_scheduled_calculation_time": "13403976579662120"
+>>>>>>> f1a32ae94cac442fc69f472c7dc0e1c962b1490c
 }

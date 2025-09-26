@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 2025/09/19-17:46:47.545 4468 Reusing MANIFEST C:\Users\dam2\Documents\proyectosEclipse\DAM2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
 2025/09/19-17:46:47.546 4468 Recovering log #3
 2025/09/19-17:46:47.546 4468 Reusing old log C:\Users\dam2\Documents\proyectosEclipse\DAM2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/000003.log 
@@ -7,3 +8,8 @@
 2025/09/24-17:31:27.699 2c38 Recovering log #3
 2025/09/24-17:31:27.699 2c38 Reusing old log C:\Users\dam2\Documents\proyectosEclipse\PSP\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/000003.log 
 >>>>>>> 679f2dc2572f835ff806a47c7f5b4fc10f33e961
+=======
+2025/09/26-17:02:06.310 3058 Reusing MANIFEST C:\Users\dam2\Documents\proyectosEclipse\PSP\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
+2025/09/26-17:02:06.311 3058 Recovering log #3
+2025/09/26-17:02:06.311 3058 Reusing old log C:\Users\dam2\Documents\proyectosEclipse\PSP\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/000003.log 
+>>>>>>> f1a32ae94cac442fc69f472c7dc0e1c962b1490c

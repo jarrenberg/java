@@ -8,4 +8,8 @@ INDEX VERSION 1.134+C:\Users\dam2\Documents\proyectosEclipse\PSP\.metadata\.plug
 434810379.index
 2162425777.index
 1865797976.index
+<<<<<<< HEAD
 >>>>>>> 679f2dc2572f835ff806a47c7f5b4fc10f33e961
+=======
+1861066397.index
+>>>>>>> f1a32ae94cac442fc69f472c7dc0e1c962b1490c

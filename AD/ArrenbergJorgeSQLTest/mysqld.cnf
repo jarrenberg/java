@@ -1,0 +1,5 @@
+server=localhost
+port=3306
+nombrebd=clientes
+user=jorge
+password=Peluca79
